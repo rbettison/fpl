@@ -1,0 +1,260 @@
+{
+    "new_entries": {
+        "has_next": false,
+        "page": 1,
+        "results": []
+    },
+    "last_updated_data": "2023-08-21T22:05:52Z",
+    "league": {
+        "id": 12117,
+        "name": "Keytree",
+        "created": "2023-07-05T16:33:56.801175Z",
+        "closed": false,
+        "max_entries": null,
+        "league_type": "x",
+        "scoring": "c",
+        "admin_entry": 71450,
+        "start_event": 1,
+        "code_privacy": "p",
+        "has_cup": true,
+        "cup_league": null,
+        "rank": null
+    },
+    "standings": {
+        "has_next": false,
+        "page": 1,
+        "results": [
+            {
+                "id": 3681336,
+                "event_total": 66,
+                "player_name": "Matt Stallard",
+                "rank": 1,
+                "last_rank": 3,
+                "rank_sort": 1,
+                "total": 146,
+                "entry": 593764,
+                "entry_name": "Ginger Warriers"
+            },
+            {
+                "id": 895227,
+                "event_total": 49,
+                "player_name": "John Lynch",
+                "rank": 2,
+                "last_rank": 1,
+                "rank_sort": 2,
+                "total": 136,
+                "entry": 151468,
+                "entry_name": "Just sold my car…"
+            },
+            {
+                "id": 46540267,
+                "event_total": 53,
+                "player_name": "Paul Ross",
+                "rank": 3,
+                "last_rank": 3,
+                "rank_sort": 3,
+                "total": 133,
+                "entry": 5871806,
+                "entry_name": "DTABM"
+            },
+            {
+                "id": 34805644,
+                "event_total": 78,
+                "player_name": "Jonny Maher",
+                "rank": 4,
+                "last_rank": 21,
+                "rank_sort": 4,
+                "total": 127,
+                "entry": 4528097,
+                "entry_name": "Poch Stay! See U FC"
+            },
+            {
+                "id": 13228561,
+                "event_total": 48,
+                "player_name": "Anthony Aughterson",
+                "rank": 5,
+                "last_rank": 5,
+                "rank_sort": 5,
+                "total": 126,
+                "entry": 2012008,
+                "entry_name": "The Academicals"
+            },
+            {
+                "id": 49052813,
+                "event_total": 41,
+                "player_name": "Michael Parkyn",
+                "rank": 6,
+                "last_rank": 2,
+                "rank_sort": 6,
+                "total": 123,
+                "entry": 6146966,
+                "entry_name": "Austin Blues"
+            },
+            {
+                "id": 8824063,
+                "event_total": 51,
+                "player_name": "Dillon Tank",
+                "rank": 7,
+                "last_rank": 6,
+                "rank_sort": 7,
+                "total": 122,
+                "entry": 1372295,
+                "entry_name": "One in a Dillion"
+            },
+            {
+                "id": 35798376,
+                "event_total": 51,
+                "player_name": "Kulbinder Singh",
+                "rank": 8,
+                "last_rank": 11,
+                "rank_sort": 8,
+                "total": 119,
+                "entry": 4647552,
+                "entry_name": "Kul Kulusevski"
+            },
+            {
+                "id": 12543080,
+                "event_total": 48,
+                "player_name": "Adrian Gilder",
+                "rank": 9,
+                "last_rank": 11,
+                "rank_sort": 9,
+                "total": 116,
+                "entry": 1911735,
+                "entry_name": "ABCFC"
+            },
+            {
+                "id": 17303307,
+                "event_total": 53,
+                "player_name": "Silvia Angellotti",
+                "rank": 10,
+                "last_rank": 16,
+                "rank_sort": 10,
+                "total": 115,
+                "entry": 2565136,
+                "entry_name": "Goalzilla Divided"
+            },
+            {
+                "id": 13023256,
+                "event_total": 46,
+                "player_name": "Tom Paulin",
+                "rank": 11,
+                "last_rank": 8,
+                "rank_sort": 11,
+                "total": 114,
+                "entry": 1981552,
+                "entry_name": "Groß Misconduct"
+            },
+            {
+                "id": 47228087,
+                "event_total": 34,
+                "player_name": "Derek Longsmith",
+                "rank": 12,
+                "last_rank": 7,
+                "rank_sort": 12,
+                "total": 108,
+                "entry": 5947694,
+                "entry_name": "Howey the Lads"
+            },
+            {
+                "id": 424128,
+                "event_total": 41,
+                "player_name": "David Maher",
+                "rank": 13,
+                "last_rank": 9,
+                "rank_sort": 13,
+                "total": 108,
+                "entry": 71450,
+                "entry_name": "Ah go on"
+            },
+            {
+                "id": 50866149,
+                "event_total": 36,
+                "player_name": "James Mandikos",
+                "rank": 14,
+                "last_rank": 10,
+                "rank_sort": 14,
+                "total": 105,
+                "entry": 6329273,
+                "entry_name": "Mandispurs"
+            },
+            {
+                "id": 29621755,
+                "event_total": 40,
+                "player_name": "Ellen Deasy",
+                "rank": 15,
+                "last_rank": 16,
+                "rank_sort": 15,
+                "total": 102,
+                "entry": 3962004,
+                "entry_name": "CroydonDeBruyne Boyz"
+            },
+            {
+                "id": 11120915,
+                "event_total": 35,
+                "player_name": "Tim Gaskill",
+                "rank": 16,
+                "last_rank": 13,
+                "rank_sort": 16,
+                "total": 99,
+                "entry": 1705531,
+                "entry_name": "Sorted Strikers"
+            },
+            {
+                "id": 21946971,
+                "event_total": 39,
+                "player_name": "Dominic Maher",
+                "rank": 17,
+                "last_rank": 13,
+                "rank_sort": 17,
+                "total": 99,
+                "entry": 3188259,
+                "entry_name": "Paddy FC"
+            },
+            {
+                "id": 4039531,
+                "event_total": 40,
+                "player_name": "Rob Bettison",
+                "rank": 18,
+                "last_rank": 18,
+                "rank_sort": 18,
+                "total": 97,
+                "entry": 644958,
+                "entry_name": "Rob's Wizards"
+            },
+            {
+                "id": 43478944,
+                "event_total": 35,
+                "player_name": "Alex Alexandrakis",
+                "rank": 19,
+                "last_rank": 13,
+                "rank_sort": 19,
+                "total": 95,
+                "entry": 5522416,
+                "entry_name": "LeTeam"
+            },
+            {
+                "id": 48632696,
+                "event_total": 35,
+                "player_name": "Oscar Maher",
+                "rank": 20,
+                "last_rank": 18,
+                "rank_sort": 20,
+                "total": 84,
+                "entry": 3228271,
+                "entry_name": "ABCDE FC"
+            },
+            {
+                "id": 57151225,
+                "event_total": 28,
+                "player_name": "Matt Pilott",
+                "rank": 21,
+                "last_rank": 20,
+                "rank_sort": 21,
+                "total": 80,
+                "entry": 6939849,
+                "entry_name": "Bringing Up The Rear"
+            }
+        ]
+    }
+}
